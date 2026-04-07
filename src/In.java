@@ -461,7 +461,7 @@ public final class In {
      * Reads the next token from this input stream, parses it as a {@code byte},
      * and returns the {@code byte}.
      * <p>
-     * To read binary data, use {@link BinaryIn}.
+
      *
      * @return the next {@code byte} in this input stream
      * @throws NoSuchElementException if the input stream is empty
